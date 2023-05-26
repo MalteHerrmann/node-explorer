@@ -1,0 +1,6 @@
+# Jetbrains IDE files
+.idea/
+
+# Build files
+build/
+
